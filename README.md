@@ -1,5 +1,9 @@
-## Hi there 👋
-I'm Gopi Shankar Ravady. I'm a Full-Stack Software Engineer with experience in building scalable web, mobile, and cloud-based systems using React, Node.js, Python, and AWS. I have a proven track record of delivering high-impact features in fast-paced environments across e-commerce, real-time apps, and infrastructure projects.
+<div align="center">
+
+## 👋 Hi there  
+I'm **Gopi Shankar Ravady**, a Full-Stack Software Engineer with experience in building scalable web, mobile, and cloud-based systems using **React**, **Node.js**, **Python**, and **AWS**. I have a proven track record of delivering high-impact features in fast-paced environments across e-commerce, real-time apps, and infrastructure projects.
+
+---
 
 ## 💻 Tech Stack
 
@@ -20,10 +24,12 @@ I'm Gopi Shankar Ravady. I'm a Full-Stack Software Engineer with experience in b
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopiShankarR&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopiShankarR)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopiShankarR&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopiShankarR)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopiShankarR&layout=compact&theme=radical)
 
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=GopiShankarR&color=blue)
+
+</div>
