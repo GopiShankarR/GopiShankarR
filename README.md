@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Gopi Shankar Ravady. I'm a Full-Stack Software Engineer with experience in building scalable web, mobile, and cloud-based systems using React, Node.js, Python, and AWS. I have a proven track record of delivering high-impact features in fast-paced environments across e-commerce, real-time apps, and infrastructure projects.
 
 ## 💻 Tech Stack
 
