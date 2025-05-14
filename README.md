@@ -25,7 +25,7 @@ I'm **Gopi Shankar Ravady**, a Full-Stack Software Engineer with experience in b
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopiShankarR&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopiShankarR)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopiShankarR&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopiShankarR&layout=compact&theme=radical)
 
 ---
